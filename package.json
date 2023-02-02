@@ -16,5 +16,6 @@
   "bugs": {
     "url": "https://github.com/ElCriVa/redesigned-tribble/issues"
   },
-  "homepage": "https://github.com/ElCriVa/redesigned-tribble#readme"
+  "homepage": "https://github.com/ElCriVa/redesigned-tribble#readme",
+  "type": "module"
 }
